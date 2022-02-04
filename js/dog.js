@@ -24,6 +24,4 @@ $(document).ready(function(){
     });
 });
 
-console.log("This is a console log");
-console.log("This is another console log");
-console.log("I am doing good coding");
+//James stop leaving console logs in our release code!
