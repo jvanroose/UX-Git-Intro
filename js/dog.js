@@ -24,4 +24,4 @@ $(document).ready(function(){
     });
 });
 
-console.log("This is a console log");
+//James stop leaving console logs in our release code!
